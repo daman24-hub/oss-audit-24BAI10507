@@ -26,7 +26,7 @@ Linus Torvalds in 2005.
 
 ### Step 1 — Clone the repository
 
-git clone https://github.com/ssnehatiwari21/oss-audit-24BCE112.git
+git clone https://github.com/daman24-hub/oss-audit-24BAI10507.git
 cd oss-audit-24BAI10507
 
 ### Step 2 — Give execute permission
